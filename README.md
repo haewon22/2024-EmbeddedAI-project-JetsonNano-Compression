@@ -1,5 +1,3 @@
-# embedded_AI-project
-
 # ♻️ 2024 Embedded AI Project – 재활용품 분류 모델 경량화
 
 본 프로젝트는 **플라스틱/캔 이진 분류 모델**을 임베디드 환경에서 실시간으로 구동할 수 있도록 **Pruning**과 **Knowledge Distillation** 기법을 적용해 경량화한 프로젝트입니다. 2024년 임베디드 AI 과목 팀/개인 프로젝트 결과물을 정리했습니다.
