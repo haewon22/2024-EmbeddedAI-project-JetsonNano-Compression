@@ -16,8 +16,6 @@
 | Plastic   | 1,391     |
 | **Total** | **2,782** |
 
-> 상세 데이터 예시는 `docs/dataset_sample/` 참조
-
 ## 모델 및 경량화 기법
 
 ### 1. Baseline
